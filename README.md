@@ -1,4 +1,4 @@
-#Rain
+# Rain
 pitter patter. 
 
 Requires raylib and all of its dependencies.
